@@ -1,0 +1,3 @@
+source_id,source_name,provider,source_url,planned_use,status
+noaa_storm_events,Storm Events Database,NOAA National Centers for Environmental Information,https://www.ncei.noaa.gov/access/storm-events-database/,"Pennsylvania tornado, hail, and thunderstorm-wind analysis",2011-2025 PA focus subset prepared; selected fields audited
+census_county_boundaries,"Cartographic Boundary Files: Counties (2025, 1:500,000)",U.S. Census Bureau,https://www2.census.gov/geo/tiger/GENZ2025/shp/cb_2025_us_county_500k.zip,County reference boundaries for Pennsylvania mapping,67 PA counties matched; geographic exports verified

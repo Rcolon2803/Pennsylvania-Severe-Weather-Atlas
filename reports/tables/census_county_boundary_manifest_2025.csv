@@ -1,0 +1,2 @@
+source_id,boundary_year,filename,source_url,file_size_bytes,sha256,checked_at_utc,source_crs,map_crs,pa_county_rows
+census_county_boundaries,2025,cb_2025_us_county_500k.zip,https://www2.census.gov/geo/tiger/GENZ2025/shp/cb_2025_us_county_500k.zip,11758981,aa976c00b181939755d0da757f4c7c2dc0103c3b3b4530fb2a91c2bb62fc777c,2026-09-21T19:35:03.367746+00:00,EPSG:4269,ESRI:102003,67

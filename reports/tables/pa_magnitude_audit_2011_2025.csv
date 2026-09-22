@@ -1,0 +1,3 @@
+event_type,unit,records,missing_or_unreadable,zero_values,negative_values,minimum,median,maximum
+Hail,inches,2441,0,0,0,0.75,1.0,4.0
+Thunderstorm Wind,knots,12630,0,0,0,25.0,50.0,104.0

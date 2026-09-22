@@ -1,0 +1,7 @@
+region,event_type,event_records,injuries_direct,injuries_indirect,deaths_direct,deaths_indirect
+Pennsylvania,Thunderstorm Wind,12630,135,7,17,5
+Pennsylvania,Hail,2441,0,0,0,0
+Pennsylvania,Tornado,328,70,3,1,0
+Lehigh Valley,Thunderstorm Wind,464,2,0,0,0
+Lehigh Valley,Hail,93,0,0,0,0
+Lehigh Valley,Tornado,7,0,0,0,0

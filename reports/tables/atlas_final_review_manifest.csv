@@ -1,0 +1,4 @@
+table,file,rows,columns,file_exists,values_match_after_reload
+atlas_overview,atlas_overview_2011_2025.csv,9,3,True,True
+atlas_impact_overview,atlas_impact_overview_2011_2025.csv,10,3,True,True
+atlas_visual_inventory,atlas_visual_inventory.csv,11,4,True,True

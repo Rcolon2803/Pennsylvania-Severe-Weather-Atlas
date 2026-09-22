@@ -1,0 +1,11 @@
+measure,Pennsylvania,Lehigh Valley
+Reported direct injuries,205,2
+Reported indirect injuries,10,0
+Reported direct fatalities,18,0
+Reported indirect fatalities,5,0
+Available property damage total (USD),"$203,508,160","$1,691,000"
+Missing property damage estimates,"2,127",164
+Available crop damage total (USD),"$2,156,000",$0
+Missing crop damage estimates,"2,248",166
+Explicit zero crop damage estimates,"13,010",398
+Positive crop damage estimates,141,0

@@ -1,0 +1,5 @@
+field,records,missing_or_unreadable,negative_values,non_whole_values,zero_records,positive_records
+INJURIES_DIRECT,15399,0,0,0,15317,82
+INJURIES_INDIRECT,15399,0,0,0,15394,5
+DEATHS_DIRECT,15399,0,0,0,15382,17
+DEATHS_INDIRECT,15399,0,0,0,15394,5

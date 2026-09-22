@@ -1,0 +1,5 @@
+region,reporting_type,records,percent_of_region_wind,median_knots,p95_knots,maximum_knots
+Pennsylvania,Estimated gust,12326,97.59,50.0,60.0,104.0
+Pennsylvania,Measured gust,304,2.41,54.0,65.85,77.0
+Lehigh Valley,Estimated gust,441,95.04,50.0,56.0,70.0
+Lehigh Valley,Measured gust,23,4.96,53.0,58.8,59.0

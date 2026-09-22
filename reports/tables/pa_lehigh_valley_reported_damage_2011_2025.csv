@@ -1,0 +1,13 @@
+region,event_type,damage_type,event_records,missing_estimates,positive_estimates,reported_damage_usd
+Pennsylvania,Thunderstorm Wind,Property,12630,1402,8093,139073160.0
+Pennsylvania,Hail,Property,2441,672,77,3487000.0
+Pennsylvania,Tornado,Property,328,53,223,60948000.0
+Pennsylvania,Thunderstorm Wind,Crops,12630,1849,119,1243000.0
+Pennsylvania,Hail,Crops,2441,340,12,19500.0
+Pennsylvania,Tornado,Crops,328,59,10,893500.0
+Lehigh Valley,Thunderstorm Wind,Property,464,145,34,1646000.0
+Lehigh Valley,Hail,Property,93,16,1,25000.0
+Lehigh Valley,Tornado,Property,7,3,1,20000.0
+Lehigh Valley,Thunderstorm Wind,Crops,464,146,0,0.0
+Lehigh Valley,Hail,Crops,93,16,0,0.0
+Lehigh Valley,Tornado,Crops,7,4,0,0.0

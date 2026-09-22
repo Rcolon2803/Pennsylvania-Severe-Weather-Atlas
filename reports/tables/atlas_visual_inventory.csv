@@ -1,0 +1,12 @@
+visual,relative_path,file_exists,file_size_bytes
+Pennsylvania annual patterns,reports/figures/pa_annual_focus_events_2011_2025.png,True,344739
+Pennsylvania monthly heatmap,reports/figures/pa_monthly_focus_share_heatmap_2011_2025.png,True,204048
+Lehigh Valley annual patterns,reports/figures/lehigh_valley_annual_focus_events_2011_2025.png,True,166557
+Statewide and local monthly comparison,reports/figures/pa_lehigh_valley_monthly_comparison_2011_2025.png,True,453384
+County total records map,outputs/maps/pa_county_total_records_2011_2025.png,True,434213
+County maps by event type,outputs/maps/pa_county_records_by_event_type_2011_2025.png,True,781299
+Hail size distributions,reports/figures/pa_lehigh_valley_hail_size_distribution_2011_2025.png,True,246280
+Wind magnitude distributions,reports/figures/pa_lehigh_valley_wind_ecdf_2011_2025.png,True,231337
+Tornado ratings,reports/figures/pa_lehigh_valley_tornado_ratings_2011_2025.png,True,195820
+Pennsylvania injuries and fatalities,reports/figures/pa_reported_injuries_fatalities_2011_2025.png,True,156726
+Property and crop damage,reports/figures/pa_lehigh_valley_reported_damage_2011_2025.png,True,281937
